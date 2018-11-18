@@ -1,0 +1,12 @@
+"""
+JHONATAN NAGASAKO
+GTx CS1301
+
+How to use print function
+"""
+
+# not that Python can depict boolean and numbers
+
+print("Hello world.")
+print(True)
+print(7)
